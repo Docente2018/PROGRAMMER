@@ -1,0 +1,7 @@
+c:\users\giovan\source\repos\Practicas_2\Practicas_2\obj\Debug\Practicas_2.csprojResolveAssemblyReference.cache
+c:\users\giovan\source\repos\Practicas_2\Practicas_2\obj\Debug\Practicas_2.csproj.CoreCompileInputs.cache
+c:\users\giovan\source\repos\Practicas_2\Practicas_2\bin\Debug\Practicas_2.exe.config
+c:\users\giovan\source\repos\Practicas_2\Practicas_2\bin\Debug\Practicas_2.exe
+c:\users\giovan\source\repos\Practicas_2\Practicas_2\bin\Debug\Practicas_2.pdb
+c:\users\giovan\source\repos\Practicas_2\Practicas_2\obj\Debug\Practicas_2.exe
+c:\users\giovan\source\repos\Practicas_2\Practicas_2\obj\Debug\Practicas_2.pdb
