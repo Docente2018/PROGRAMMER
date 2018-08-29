@@ -1,0 +1,11 @@
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\bin\Debug\netcoreapp2.0\Figuras.deps.json
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\bin\Debug\netcoreapp2.0\Figuras.runtimeconfig.json
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\bin\Debug\netcoreapp2.0\Figuras.runtimeconfig.dev.json
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\bin\Debug\netcoreapp2.0\Figuras.dll
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\bin\Debug\netcoreapp2.0\Figuras.pdb
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\obj\Debug\netcoreapp2.0\Figuras.csprojAssemblyReference.cache
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\obj\Debug\netcoreapp2.0\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\obj\Debug\netcoreapp2.0\Figuras.AssemblyInfoInputs.cache
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\obj\Debug\netcoreapp2.0\Figuras.AssemblyInfo.cs
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\obj\Debug\netcoreapp2.0\Figuras.dll
+C:\Users\VALQUIRIA\source\repos\Figuras\Figuras\obj\Debug\netcoreapp2.0\Figuras.pdb
