@@ -1,0 +1,11 @@
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\obj\Debug\netcoreapp2.0\Transporte.csprojAssemblyReference.cache
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\obj\Debug\netcoreapp2.0\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\obj\Debug\netcoreapp2.0\Transporte.AssemblyInfoInputs.cache
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\obj\Debug\netcoreapp2.0\Transporte.AssemblyInfo.cs
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\bin\Debug\netcoreapp2.0\Transporte.deps.json
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\bin\Debug\netcoreapp2.0\Transporte.runtimeconfig.json
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\bin\Debug\netcoreapp2.0\Transporte.runtimeconfig.dev.json
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\bin\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\bin\Debug\netcoreapp2.0\Transporte.pdb
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\obj\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\VALQUIRIA\source\repos\Transporte\Transporte\obj\Debug\netcoreapp2.0\Transporte.pdb
