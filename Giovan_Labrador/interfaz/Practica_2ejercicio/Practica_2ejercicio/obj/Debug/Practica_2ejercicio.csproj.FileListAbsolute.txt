@@ -1,7 +1,0 @@
-c:\users\giovan\source\repos\Practica_2ejercicio\Practica_2ejercicio\bin\Debug\Practica_2ejercicio.exe.config
-c:\users\giovan\source\repos\Practica_2ejercicio\Practica_2ejercicio\bin\Debug\Practica_2ejercicio.exe
-c:\users\giovan\source\repos\Practica_2ejercicio\Practica_2ejercicio\bin\Debug\Practica_2ejercicio.pdb
-c:\users\giovan\source\repos\Practica_2ejercicio\Practica_2ejercicio\obj\Debug\Practica_2ejercicio.csprojResolveAssemblyReference.cache
-c:\users\giovan\source\repos\Practica_2ejercicio\Practica_2ejercicio\obj\Debug\Practica_2ejercicio.csproj.CoreCompileInputs.cache
-c:\users\giovan\source\repos\Practica_2ejercicio\Practica_2ejercicio\obj\Debug\Practica_2ejercicio.exe
-c:\users\giovan\source\repos\Practica_2ejercicio\Practica_2ejercicio\obj\Debug\Practica_2ejercicio.pdb
