@@ -1,7 +1,0 @@
-C:\Users\giovan\source\repos\ejercisio 2\ejercisio 2\bin\Debug\ejercisio 2.exe.config
-C:\Users\giovan\source\repos\ejercisio 2\ejercisio 2\bin\Debug\ejercisio 2.exe
-C:\Users\giovan\source\repos\ejercisio 2\ejercisio 2\bin\Debug\ejercisio 2.pdb
-C:\Users\giovan\source\repos\ejercisio 2\ejercisio 2\obj\Debug\ejercisio 2.csprojResolveAssemblyReference.cache
-C:\Users\giovan\source\repos\ejercisio 2\ejercisio 2\obj\Debug\ejercisio 2.csproj.CoreCompileInputs.cache
-C:\Users\giovan\source\repos\ejercisio 2\ejercisio 2\obj\Debug\ejercisio 2.exe
-C:\Users\giovan\source\repos\ejercisio 2\ejercisio 2\obj\Debug\ejercisio 2.pdb
