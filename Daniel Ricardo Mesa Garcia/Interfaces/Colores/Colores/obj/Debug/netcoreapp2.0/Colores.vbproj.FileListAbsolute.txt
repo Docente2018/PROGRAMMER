@@ -9,3 +9,14 @@ C:\Users\danie\Desktop\Colores\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.A
 C:\Users\danie\Desktop\Colores\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.AssemblyInfo.vb
 C:\Users\danie\Desktop\Colores\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.dll
 C:\Users\danie\Desktop\Colores\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.pdb
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\bin\Debug\netcoreapp2.0\Colores.deps.json
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\bin\Debug\netcoreapp2.0\Colores.runtimeconfig.json
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\bin\Debug\netcoreapp2.0\Colores.runtimeconfig.dev.json
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\bin\Debug\netcoreapp2.0\Colores.dll
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\bin\Debug\netcoreapp2.0\Colores.pdb
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.vbprojAssemblyReference.cache
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.vbproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.AssemblyInfo.vb
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.dll
+C:\Users\danie\Documents\Univercidad_Programer\PROGRAMMER\Daniel Ricardo Mesa Garcia\Interfaces\Colores\Colores\obj\Debug\netcoreapp2.0\Colores.pdb

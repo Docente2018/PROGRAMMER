@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\bin\Debug\Quiz.xml
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\obj\Debug\Quiz.vbprojAssemblyReference.cache
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\obj\Debug\Quiz.Resources.resources
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\obj\Debug\Quiz.vbproj.GenerateResource.cache
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\obj\Debug\Quiz.vbproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\obj\Debug\Quiz.xml
+C:\Users\danie\Desktop\quiz\Quiz\Quiz\obj\Debug\Quiz.pdb
