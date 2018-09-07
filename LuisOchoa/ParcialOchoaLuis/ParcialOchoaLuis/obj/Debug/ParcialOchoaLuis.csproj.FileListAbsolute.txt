@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTES\source\repos\ParcialOchoaLuis\ParcialOchoaLuis\bin\Debug\ParcialOchoaLuis.exe.config
+C:\Users\ESTUDIANTES\source\repos\ParcialOchoaLuis\ParcialOchoaLuis\bin\Debug\ParcialOchoaLuis.exe
+C:\Users\ESTUDIANTES\source\repos\ParcialOchoaLuis\ParcialOchoaLuis\bin\Debug\ParcialOchoaLuis.pdb
+C:\Users\ESTUDIANTES\source\repos\ParcialOchoaLuis\ParcialOchoaLuis\obj\Debug\ParcialOchoaLuis.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTES\source\repos\ParcialOchoaLuis\ParcialOchoaLuis\obj\Debug\ParcialOchoaLuis.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\source\repos\ParcialOchoaLuis\ParcialOchoaLuis\obj\Debug\ParcialOchoaLuis.exe
+C:\Users\ESTUDIANTES\source\repos\ParcialOchoaLuis\ParcialOchoaLuis\obj\Debug\ParcialOchoaLuis.pdb
