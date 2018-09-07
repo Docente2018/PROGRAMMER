@@ -44,8 +44,8 @@
                     Case 4
                         Console.WriteLine("Digite el Radio del Circulo")
                         Radio = Console.ReadLine
-                        Console.WriteLine("Area del Circulo: " & Figura.Rec.AREA(Radio))
-                        Console.WriteLine("Perimetro del Circulo: " & Figura.Rec.PERIMETRO(Radio))
+                        Console.WriteLine("Area del Circulo: " & Figura.Cir.AREA(Radio))
+                        Console.WriteLine("Perimetro del Circulo: " & Figura.Cir.PERIMETRO(Radio))
                     Case 5
                         Console.WriteLine("Adios")
                         a = False
