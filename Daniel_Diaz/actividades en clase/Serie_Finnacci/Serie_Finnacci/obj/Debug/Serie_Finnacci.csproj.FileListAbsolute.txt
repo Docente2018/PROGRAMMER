@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTE\source\repos\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\source\repos\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\source\repos\Serie_Finnacci\Serie_Finnacci\bin\Debug\Serie_Finnacci.exe.config
+C:\Users\ESTUDIANTE\source\repos\Serie_Finnacci\Serie_Finnacci\bin\Debug\Serie_Finnacci.exe
+C:\Users\ESTUDIANTE\source\repos\Serie_Finnacci\Serie_Finnacci\bin\Debug\Serie_Finnacci.pdb
+C:\Users\ESTUDIANTE\source\repos\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.exe
+C:\Users\ESTUDIANTE\source\repos\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.pdb
+C:\Users\ED\Documents\Serie_Finnacci\Serie_Finnacci\bin\Debug\Serie_Finnacci.exe.config
+C:\Users\ED\Documents\Serie_Finnacci\Serie_Finnacci\bin\Debug\Serie_Finnacci.exe
+C:\Users\ED\Documents\Serie_Finnacci\Serie_Finnacci\bin\Debug\Serie_Finnacci.pdb
+C:\Users\ED\Documents\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.csprojAssemblyReference.cache
+C:\Users\ED\Documents\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.csproj.CoreCompileInputs.cache
+C:\Users\ED\Documents\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.exe
+C:\Users\ED\Documents\Serie_Finnacci\Serie_Finnacci\obj\Debug\Serie_Finnacci.pdb
