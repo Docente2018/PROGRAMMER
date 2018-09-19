@@ -13,17 +13,15 @@ import java.util.Scanner;
  */
 public class Fibonacci {
 
+    // Metodo para validar si es dato es numerico o String
     public static boolean isNumeric(String cadena) {
-
         boolean resultado;
-
         try {
             Integer.parseInt(cadena);
             resultado = true;
         } catch (NumberFormatException excepcion) {
             resultado = false;
         }
-
         return resultado;
     }
 
@@ -33,8 +31,8 @@ public class Fibonacci {
         int n1 = 0;
         int n2 = 1;
         int aux;
-        String NumIteraciones = "";
-        int NumeroI = 0;
+        String NumIteraciones;
+        int NumeroI;
         System.out.println("Ingrese el numero de iteraciones de la serie de fibonacci");
         
         // Se crea la instancia de Scanner para capturar el dato ingresado pot el usuario
@@ -61,8 +59,7 @@ public class Fibonacci {
                 System.out.println(n1);
                 System.out.println(n2);
                 
-                // Se realiza el calculo de la serie de fibonacci solicitada por el ususario
-                
+                // Se realiza el calculo de la serie de fibonacci solicitada por el ususario              
                 NumeroI = NumeroI - 2;
                 for (int i = 0; i < NumeroI; i++) {
                     aux = n1;
@@ -73,9 +70,7 @@ public class Fibonacci {
                 }
             }
         } catch (Exception e) {
-
             System.out.println("Digite un Numero Porfavor !!");
-
         }
 
     }
