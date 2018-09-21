@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTE\Desktop\clase programer\serieFibonacci\serieFibonacci\bin\Debug\serieFibonacci.exe.config
+C:\Users\ESTUDIANTE\Desktop\clase programer\serieFibonacci\serieFibonacci\bin\Debug\serieFibonacci.exe
+C:\Users\ESTUDIANTE\Desktop\clase programer\serieFibonacci\serieFibonacci\bin\Debug\serieFibonacci.pdb
+C:\Users\ESTUDIANTE\Desktop\clase programer\serieFibonacci\serieFibonacci\obj\Debug\serieFibonacci.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\clase programer\serieFibonacci\serieFibonacci\obj\Debug\serieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\clase programer\serieFibonacci\serieFibonacci\obj\Debug\serieFibonacci.exe
+C:\Users\ESTUDIANTE\Desktop\clase programer\serieFibonacci\serieFibonacci\obj\Debug\serieFibonacci.pdb
