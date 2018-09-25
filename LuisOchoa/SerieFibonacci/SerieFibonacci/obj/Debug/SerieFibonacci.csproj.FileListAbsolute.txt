@@ -1,0 +1,7 @@
+C:\Users\VALQUIRIA\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.exe.config
+C:\Users\VALQUIRIA\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.exe
+C:\Users\VALQUIRIA\source\repos\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.pdb
+C:\Users\VALQUIRIA\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.csprojAssemblyReference.cache
+C:\Users\VALQUIRIA\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\VALQUIRIA\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.exe
+C:\Users\VALQUIRIA\source\repos\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.pdb
