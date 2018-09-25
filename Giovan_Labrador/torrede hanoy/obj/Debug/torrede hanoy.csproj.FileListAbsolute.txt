@@ -1,0 +1,7 @@
+c:\users\estudiante\source\repos\torrede hanoy\torrede hanoy\obj\Debug\torrede hanoy.csprojAssemblyReference.cache
+c:\users\estudiante\source\repos\torrede hanoy\torrede hanoy\obj\Debug\torrede hanoy.csproj.CoreCompileInputs.cache
+c:\users\estudiante\source\repos\torrede hanoy\torrede hanoy\bin\Debug\torrede hanoy.exe.config
+c:\users\estudiante\source\repos\torrede hanoy\torrede hanoy\bin\Debug\torrede hanoy.exe
+c:\users\estudiante\source\repos\torrede hanoy\torrede hanoy\bin\Debug\torrede hanoy.pdb
+c:\users\estudiante\source\repos\torrede hanoy\torrede hanoy\obj\Debug\torrede hanoy.exe
+c:\users\estudiante\source\repos\torrede hanoy\torrede hanoy\obj\Debug\torrede hanoy.pdb
