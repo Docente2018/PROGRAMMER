@@ -1,0 +1,115 @@
+
+Aqui estan los controles = CT.Aplicaciones.ControlesCompilados
+Aqui estan los mappers = CT.Comun // FactoryWrappers
+Logicas de negocio estan aqui = Source // Business Logic // CT.Servicios.BusinessLogic
+
+aqui estan los mensajes del recurso = MensajesResource.resx
+
+buscar una llave
+
+Update clientes Set nombre='José' Where nombre='Pepe'
+
+//        int     COD_MOT_BLO_CD = cliente.DatosCliente.CodigoMotivoBloqueo;
+    //        string COD_EST_CD = cliente.DatosCliente.EstadoCliente.ToString();
+
+    //        if (COD_MOT_BLO_CD == 999 && COD_EST_CD == "AI")
+    //{
+    //    string mensaje = "cliente migrado";
+    //}
+
+
+ string COD_MOT_BLO_CD = customer.customerRestricted.code ;
+            string COD_EST_CD = customer.customerStatus.code;
+
+  public List<MenuItem> AsignarMenuItems(List<Proceso> procesos)
+        {
+            List<MenuItem> items = new List<MenuItem>();
+            MenuItem menu;
+            List<xDictionary> llavesParametrizacion = SingleModel.ListarLlavesPrametrizacion(new List<xDictionary>() 
+				                                    { 
+					                                    new xDictionary() { code = "MigracionFullstack" },	
+                                                        new xDictionary() { code = "inhabil_Tab_ComprasyServicios"  }});
+
+            if (llavesParametrizacion.Count() >= 2)
+            {
+                string Respuesta = llavesParametrizacion.Find(x => x.code == "MigracionFullstack").name.ToString().ToLower();
+                foreach (Proceso proc in procesos)
+                {
+                    menu = new MenuItem();
+                    menu.Header = proc.NombreNegocios;
+                    menu.Tag = proc;
+
+                    if (Respuesta == "true")
+                    {
+                        //inhabilitar Tabs de Compras y Servicios
+                        string[] listaTabs_ComprasyServicios = llavesParametrizacion.Find(x => x.code == "inhabil_Tab_ComprasyServicios").name.ToString().Split(';');
+                        string tab_inhabilitar = listaTabs_ComprasyServicios.Where(x => x == proc.NombreNegocios).FirstOrDefault();
+                        if (String.IsNullOrEmpty(tab_inhabilitar))
+                        {
+                            if (Enum.IsDefined(typeof(RepresentacionAplicacionHosteada.MacroProcesosIniciales), Convert.ToInt32(proc.Id)))
+                            { menu.IsEnabled = true; }
+                            else
+                            { menu.IsEnabled = false; }
+                        }
+                        else
+                            menu.IsEnabled = false;
+                    }
+                    else
+                    {
+                        if (Enum.IsDefined(typeof(RepresentacionAplicacionHosteada.MacroProcesosIniciales), Convert.ToInt32(proc.Id)))
+                            menu.IsEnabled = true; 
+                        else
+                            menu.IsEnabled = false; 
+                    }
+
+                    // Daniel Bastidas - Mejoras Front 25656
+                    //Comprueba si el proceso es Call Tecnico Fijo, y lo deshabilita en un principio hasta que se cargue un cliente en el sistema.
+                    if (Convert.ToInt32(proc.Id) == 28)
+                        menu.IsEnabled = false;
+                    menu.Click += new System.Windows.RoutedEventHandler(menu_Click);
+                    items.Add(menu);
+                }
+            }
+            else
+            {
+                foreach (Proceso proc in procesos)
+                {
+                    menu = new MenuItem();
+                    menu.Header = proc.NombreNegocios;
+                    menu.Tag = proc;
+
+                    if (Enum.IsDefined(typeof(RepresentacionAplicacionHosteada.MacroProcesosIniciales), Convert.ToInt32(proc.Id)))
+                        menu.IsEnabled = true;
+                    else
+                        menu.IsEnabled = false;
+
+                    // Daniel Bastidas - Mejoras Front 25656
+                    //Comprueba si el proceso es Call Tecnico Fijo, y lo deshabilita en un principio hasta que se cargue un cliente en el sistema.
+                    if (Convert.ToInt32(proc.Id) == 28)
+                        menu.IsEnabled = false;
+                    menu.Click += new System.Windows.RoutedEventHandler(menu_Click);
+                    items.Add(menu);
+                }
+            }
+            return items;
+        }
+
+
+
+
+                        string COD_MOT_BLO_CD = customer.customerRestricted.code.ToString();
+                        string COD_EST_CD =customer.customerStatus.code.ToString();
+
+                        if (COD_MOT_BLO_CD == "999" && COD_EST_CD == "AI")
+                          {
+                                                
+                             String mensajeRestriccion = SingleModel.ConsultarMensajeParametrizado(new CommonBusinessEntitiesDomain.BaseTypesABE.Dictionary() { code = "Migracion_FS", name = "FS_Cliente_Migrado" });
+
+                             MessageBox.Show("Estado Cliente", mensajeRestriccion, MessageBoxButton.OK, MessageBoxImage.Information);
+                          }
+
+
+// codigo capa de atis a sid
+
+  public override object FromAtisToSid(object source)
+        {

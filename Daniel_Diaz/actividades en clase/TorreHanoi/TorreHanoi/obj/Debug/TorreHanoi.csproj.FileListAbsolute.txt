@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTE\Documents\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Documents\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Documents\TorreHanoi\TorreHanoi\bin\Debug\TorreHanoi.exe.config
+C:\Users\ESTUDIANTE\Documents\TorreHanoi\TorreHanoi\bin\Debug\TorreHanoi.exe
+C:\Users\ESTUDIANTE\Documents\TorreHanoi\TorreHanoi\bin\Debug\TorreHanoi.pdb
+C:\Users\ESTUDIANTE\Documents\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.exe
+C:\Users\ESTUDIANTE\Documents\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.pdb
+C:\Users\ESTUDIANTE\Downloads\TorreHanoi\TorreHanoi\bin\Debug\TorreHanoi.exe.config
+C:\Users\ESTUDIANTE\Downloads\TorreHanoi\TorreHanoi\bin\Debug\TorreHanoi.exe
+C:\Users\ESTUDIANTE\Downloads\TorreHanoi\TorreHanoi\bin\Debug\TorreHanoi.pdb
+C:\Users\ESTUDIANTE\Downloads\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Downloads\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.exe
+C:\Users\ESTUDIANTE\Downloads\TorreHanoi\TorreHanoi\obj\Debug\TorreHanoi.pdb
