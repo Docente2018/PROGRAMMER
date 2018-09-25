@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTE\source\repos\fibonche\fibonche\bin\Debug\fibonche.exe.config
+C:\Users\ESTUDIANTE\source\repos\fibonche\fibonche\bin\Debug\fibonche.exe
+C:\Users\ESTUDIANTE\source\repos\fibonche\fibonche\bin\Debug\fibonche.pdb
+C:\Users\ESTUDIANTE\source\repos\fibonche\fibonche\obj\Debug\fibonche.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\source\repos\fibonche\fibonche\obj\Debug\fibonche.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\source\repos\fibonche\fibonche\obj\Debug\fibonche.exe
+C:\Users\ESTUDIANTE\source\repos\fibonche\fibonche\obj\Debug\fibonche.pdb
