@@ -10,7 +10,7 @@
         While A
             Try
                 Console.WriteLine("Dijita la cantidad de piesas")
-                Console.WriteLine("Para saloir digita 0")
+                Console.WriteLine("Para salir digita 0")
                 piezas = Console.ReadLine
                 Select Case piezas
                     Case 0
