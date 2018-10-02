@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTE\source\repos\PruebaCorte1\PruebaCorte1\bin\Debug\PruebaCorte1.exe.config
+C:\Users\ESTUDIANTE\source\repos\PruebaCorte1\PruebaCorte1\bin\Debug\PruebaCorte1.exe
+C:\Users\ESTUDIANTE\source\repos\PruebaCorte1\PruebaCorte1\bin\Debug\PruebaCorte1.pdb
+C:\Users\ESTUDIANTE\source\repos\PruebaCorte1\PruebaCorte1\obj\Debug\PruebaCorte1.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\source\repos\PruebaCorte1\PruebaCorte1\obj\Debug\PruebaCorte1.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\source\repos\PruebaCorte1\PruebaCorte1\obj\Debug\PruebaCorte1.exe
+C:\Users\ESTUDIANTE\source\repos\PruebaCorte1\PruebaCorte1\obj\Debug\PruebaCorte1.pdb

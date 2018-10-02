@@ -1,0 +1,7 @@
+C:\Users\VALQUIRIA\source\repos\TorresHanoi\TorresHanoi\bin\Debug\TorresHanoi.exe.config
+C:\Users\VALQUIRIA\source\repos\TorresHanoi\TorresHanoi\bin\Debug\TorresHanoi.exe
+C:\Users\VALQUIRIA\source\repos\TorresHanoi\TorresHanoi\bin\Debug\TorresHanoi.pdb
+C:\Users\VALQUIRIA\source\repos\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.csprojAssemblyReference.cache
+C:\Users\VALQUIRIA\source\repos\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.csproj.CoreCompileInputs.cache
+C:\Users\VALQUIRIA\source\repos\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.exe
+C:\Users\VALQUIRIA\source\repos\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.pdb
