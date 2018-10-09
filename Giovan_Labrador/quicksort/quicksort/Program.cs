@@ -11,7 +11,7 @@ namespace quicksort
         static void Main(string[] args)
         {
             int n;
-            Console.WriteLine("Metodo de Quick Sort");
+            Console.WriteLine("Metodo de Quick Sort");// inicio del programa
             Console.Write("Cuantos numeros desea ingresar ");
             n = Int32.Parse(Console.ReadLine());
             llenar b = new llenar(n);
@@ -35,7 +35,7 @@ namespace quicksort
             mostrar();
         }
 
-        private void quicksort(int[] vector, int primero, int ultimo)
+        private void quicksort(int[] vector, int primero, int ultimo)// metodo que utiliza la acomodacion de numeros de izquierda a derecha de menor a mayor
         {
             int i, j, central;
             double pivote;
@@ -70,7 +70,7 @@ namespace quicksort
 
         private void mostrar()
         {
-            Console.WriteLine("Vector ordenados en forma ascendente");
+            Console.WriteLine("Vector ordenados en forma ascendente");// imprime en pantalla los numeros ingresados en forma ascendente
             for (int i = 0; i < h; i++)
             {
                 Console.Write("{0} ", vector[i]);
