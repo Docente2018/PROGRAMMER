@@ -1,4 +1,4 @@
-package hanoi;
+package programmer.hanoi;
 
 import java.util.Scanner;
 

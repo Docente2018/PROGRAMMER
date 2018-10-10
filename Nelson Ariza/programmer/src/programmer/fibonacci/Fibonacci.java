@@ -1,4 +1,4 @@
-package com.uninpahu.programmer.fibonacci;
+package programmer.fibonacci;
 
 import java.util.Scanner;
 
@@ -20,6 +20,7 @@ public class Fibonacci {
                 System.out.println(fibonacciIterativo(i));
             }
         }
+        in.close();
     }
 
     /**
