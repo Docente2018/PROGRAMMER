@@ -1,0 +1,12 @@
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe.config
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.pdb
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.xml
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.vbprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.Form1.resources
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.Resources.resources
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.vbproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.vbproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.exe
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.xml
+C:\Users\danie\OneDrive\Programacion\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.pdb
