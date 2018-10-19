@@ -1,0 +1,20 @@
+C:\Users\ESTUDIANTE\Desktop\clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.exe.config
+C:\Users\ESTUDIANTE\Desktop\clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.exe
+C:\Users\ESTUDIANTE\Desktop\clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.pdb
+C:\Users\ESTUDIANTE\Desktop\clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.exe
+C:\Users\ESTUDIANTE\Desktop\clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.pdb
+E:\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.exe.config
+E:\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.exe
+E:\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.pdb
+E:\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.csprojAssemblyReference.cache
+E:\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.csproj.CoreCompileInputs.cache
+E:\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.exe
+E:\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.pdb
+\\VBOXSVR\Virtual\Uninpahu clase proyect\Clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.exe.config
+\\VBOXSVR\Virtual\Uninpahu clase proyect\Clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.exe
+\\VBOXSVR\Virtual\Uninpahu clase proyect\Clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.pdb
+\\VBOXSVR\Virtual\Uninpahu clase proyect\Clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.exe
+\\VBOXSVR\Virtual\Uninpahu clase proyect\Clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\bin\Debug\ejercicioOrdenamiento.pdb
+\\VBOXSVR\Virtual\Uninpahu clase proyect\Clase programer\ejercicioOrdenamiento\ejercicioOrdenamiento\obj\Debug\ejercicioOrdenamiento.csprojResolveAssemblyReference.cache
