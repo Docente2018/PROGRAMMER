@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ordenamiento por burbuja</title>
+</head>
+<script type="text/javascript">
+
+	function inicio(){
+		var campos = prompt("Cuantos campos quieres", "5");
+		if (campos != null ) {
+			//si el dato ingresado es una letra genera una alerta y suma un intento en la variable numeroIntentos
+			if (isNaN(campos)) {
+				alert("Campo erroneo");
+				inicio();
+			}
+			else{
+				var array;
+				for (var i =0; i <= campos-1; i++) {
+					var campoSiguiente = i+1;
+					var campoTemp = prompt("digite el campo numero "+campoSiguiente);
+					if (campoTemp != null ) {
+						//si el dato ingresado es una letra genera una alerta y suma un intento en la variable numeroIntentos
+						if (isNaN(campoTemp)) {
+							alert("Campo erroneo");
+							inicio();
+						}
+						else{
+							if (typeof array !== 'undefined' && array.length > 0) {
+								array.push(campoTemp);
+							}
+							else{
+								array = [campoTemp];
+							}
+						}
+					}
+				}
+				corre(array);
+			}
+		}
+		//en caso de terminar el proceso 
+		else{
+			alert("Campo erroneo");
+			numeroIntentos = numeroIntentos+1;
+			inicio();
+		} 
+	}
+
+	function corre (array){
+		var temporal = 0;
+		var contador = array.length;
+		do {
+			contador --;
+			for (var i = 0; i <= array.length-1; i++) {
+				var arraySiguiente = array[i+1];
+				if (array[i] > arraySiguiente) {
+					temporal = arraySiguiente;
+					array[i+1] = array[i];
+					array[i] = temporal;
+				}
+				//nmalert("to"+array);
+			}
+		} 
+		while (contador!=0); 
+		alert("total "+array);
+
+
+		/*var finalizar = "no";
+		var arrayMayor;
+		var arrayMenor;
+
+		for (var i = 0; i <= array.length-1; i++) {
+			for (var i = 1; i <= array.length-1; i++) {
+				if (array[i]<array[0]) {
+					if (typeof arrayMenor !== 'undefined' && arrayMenor.length > 0) {
+						arrayMenor.push(array[i]);
+					}
+					else{
+						arrayMenor = [array[i]];
+					}
+				}
+				else{
+					if (typeof arrayMayor !== 'undefined' && arrayMayor.length > 0) {
+						arrayMayor.push(array[i]);
+					}
+					else{
+						arrayMayor = [array[i]];
+					}
+				}
+			}
+
+			alert("mayor"+arrayMayor);
+			alert("mENOR"+arrayMenor);
+			if (typeof arrayMenor !== 'undefined' && arrayMenor.length > 0) {
+				array = [arrayMenor];
+			}
+			else{
+			}
+			if (typeof arrayMenor !== 'undefined' && arrayMenor.length > 0) {
+				array.push(array[0]);
+			}
+			else{
+				array = [array[0]];
+			}
+			if (typeof arrayMayor !== 'undefined' && arrayMayor.length > 0) {
+				array.push(arrayMayor);
+			}
+			alert("total"+array);
+		}*/
+	}
+</script>
+<body onload="inicio()">
+	<!--<table>
+		<tr>
+			<td><input type="text" id="campoa1" value="lleno"></td>
+			<td><input type="text" id="campob1" value="vacio"></td>
+			<td><input type="text" id="campoc1" value="vacio"></td>
+		</tr>
+		<tr>
+			<td><input type="text" id="campoa2" value="lleno"></td>
+			<td><input type="text" id="campob2" value="vacio"></td>
+			<td><input type="text" id="campoc2" value="vacio"></td>
+		</tr>
+		<tr>
+			<td><input type="text" id="campoa3" value="lleno"></td>
+			<td><input type="text" id="campob3" value="vacio"></td>
+			<td><input type="text" id="campoc3" value="vacio"></td>
+		</tr>
+	</table>-->
+
+</body>
+</html>
