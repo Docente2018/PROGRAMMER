@@ -1,0 +1,14 @@
+C:\Users\ED\source\repos\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe.config
+C:\Users\ED\source\repos\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe
+C:\Users\ED\source\repos\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.pdb
+C:\Users\ED\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.exe
+C:\Users\ED\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.pdb
+C:\Users\ED\Desktop\ProgrammerOrdenamiento\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\ED\Desktop\ProgrammerOrdenamiento\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\ED\Desktop\ProgrammerOrdenamiento\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.exe
+C:\Users\ED\Desktop\ProgrammerOrdenamiento\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.pdb
+C:\Users\ED\Desktop\ProgrammerOrdenamiento\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe.config
+C:\Users\ED\Desktop\ProgrammerOrdenamiento\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe
+C:\Users\ED\Desktop\ProgrammerOrdenamiento\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.pdb

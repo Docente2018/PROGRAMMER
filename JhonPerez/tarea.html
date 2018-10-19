@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+
+
+
+</head>
+<script type="text/javascript">
+
+    var numeroIntentos = 0;
+    //cargar valor de fibonacci
+    function cargar(){
+        //condicion numeroIntentos minimo 3, al tercer intento sale
+        if (numeroIntentos==3) {
+            alert("Sale");
+            return;
+        }
+        //el dato ingresado se guarda en la variable persona
+        var persona = prompt("Hasta que numero quieres llegar", "50");
+        if (persona != null ) {
+            //si el dato ingresado es una letra genera una alerta y suma un intento en la variable numeroIntentos
+            if (isNaN(persona)) {
+                alert("Campo erroneo");
+                numeroIntentos = numeroIntentos+1;
+                cargar();
+            }
+            else{
+                //variable en los que se va a guardar los resultados
+                var prim = 0;
+                var segu = 1;
+                var terc = 2;
+                var respuesta = "0,1";
+                //ciclo para hacer el fibonacci hasta la variable persona
+                for (var i = 3; i <= persona; i++) {
+                    terc = prim+segu;
+                    prim = segu;
+                    segu = terc;
+                    respuesta = respuesta+","+terc;
+                }
+                //mustra del resultado 
+                alert(respuesta);
+            }
+        }
+        //en caso de terminar el proceso 
+        else{
+            alert("Campo erroneo");
+            numeroIntentos = numeroIntentos+1;
+            cargar();
+        }
+    }
+
+
+
+</script>
+<body onload="cargar();">
+<div class="container">
+    <div class="row">
+
+   
+ </div>
+</div>
+</body>
+</html>
