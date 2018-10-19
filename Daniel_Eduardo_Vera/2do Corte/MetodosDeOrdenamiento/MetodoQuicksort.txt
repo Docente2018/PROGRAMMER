@@ -1,0 +1,40 @@
+package ordenamiento;
+
+/**
+ *
+ * @author dverapim
+ */
+public class Ordenamiento {
+      
+public static void Quicksort(int[] vector, int primero, int ultimo)
+{
+     int x=primero, y=ultimo;
+     int pivote=vector[(primero + ultimo) / 2];
+     int auxiliar;
+ 
+     do
+     {
+          while(vector[x]<pivote) x++;      
+          while(vector[y]>pivote) y--;
+ 
+          if (x<=y)
+          {
+               auxiliar=vector[y];
+               vector[y]=vector[x];
+               vector[x]=auxiliar;
+               x++;
+               y--;
+          }
+     }
+     while (x<=y);
+ 
+     if(primero<y)
+     {
+          Quicksort(vector,primero,y);
+     }
+
+     if(ultimo>x)
+     {
+          Quicksort(vector,x, ultimo);
+     }
+}

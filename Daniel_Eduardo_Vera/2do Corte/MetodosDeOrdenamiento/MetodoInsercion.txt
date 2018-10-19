@@ -1,0 +1,21 @@
+package ordenamiento;
+
+/**
+ *
+ * @author dverapim
+ */
+public class Ordenamiento {
+      
+    public static void insercion(int[] insercion) {
+    int numero = insercion.length;
+    for (int contador = 1; contador <= numero - 1; contador++) {
+        int x = insercion[contador];
+        int y = contador - 1;
+        while (y >= 0 && x < insercion[y]) {
+            insercion[y + 1] = insercion[y];
+            y = y - 1;
+        }
+        insercion[y + 1] = x;
+    }
+}
+}

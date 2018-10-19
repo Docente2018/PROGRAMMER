@@ -1,0 +1,30 @@
+package ordenamiento;
+
+/**
+ *
+ * @author dverapim
+ */
+public class Ordenamiento {
+
+    /**
+     * @param args the command line arguments
+     */
+public static int[] OrdenamientoBurbuja(int[] numero)
+{
+    int temp;
+    int t = numero.length;
+    for (int i = 1; i < t; i++) 
+    {
+         for (int contador = t- 1;  contador>= i; contador--) 
+         {
+                if(numero[contador] < numero[contador-1])
+                {
+                    temp = numero[contador];
+                    numero[contador] = numero[contador-1];
+                    numero[contador-1]=  temp;
+                }
+         }
+    }
+    return numero;
+}
+}
