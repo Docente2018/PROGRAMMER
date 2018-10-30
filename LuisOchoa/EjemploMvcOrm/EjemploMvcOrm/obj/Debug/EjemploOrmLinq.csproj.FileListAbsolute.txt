@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTE\source\repos\EjemploMvcOrm\EjemploMvcOrm\obj\Debug\EjemploOrmLinq.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\source\repos\EjemploMvcOrm\EjemploMvcOrm\obj\Debug\EjemploOrmLinq.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\source\repos\EjemploMvcOrm\EjemploMvcOrm\bin\Debug\EjemploMvcOrm.exe.config
+C:\Users\ESTUDIANTE\source\repos\EjemploMvcOrm\EjemploMvcOrm\bin\Debug\EjemploMvcOrm.exe
+C:\Users\ESTUDIANTE\source\repos\EjemploMvcOrm\EjemploMvcOrm\bin\Debug\EjemploMvcOrm.pdb
+C:\Users\ESTUDIANTE\source\repos\EjemploMvcOrm\EjemploMvcOrm\obj\Debug\EjemploMvcOrm.exe
+C:\Users\ESTUDIANTE\source\repos\EjemploMvcOrm\EjemploMvcOrm\obj\Debug\EjemploMvcOrm.pdb
